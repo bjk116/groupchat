@@ -1,0 +1,15 @@
+.self_name{
+	visibility: hidden;
+}
+
+.name{
+	visibility: hidden;
+}
+
+.hour{
+	visibility: hidden;
+}
+
+.self_hour{
+	visibility:hidden;
+}
